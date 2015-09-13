@@ -3,7 +3,7 @@
 // @namespace    https://realitygaming.fr/
 // @include      https://realitygaming.fr/*
 // @version      0.1
-// @description  enter something useful
+// @description  Bloc Note sur RealityGaming
 // @author       Loucasse
 // @match        https://realitygaming.fr/*
 // @grant        none
